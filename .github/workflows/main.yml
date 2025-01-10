@@ -23,9 +23,9 @@ jobs:
 
     - name: Download Kaggle notebook
       env:
-        KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
-        KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
-      run: kaggle kernels pull <KAGGLE_USERNAME>/<NOTEBOOK_NAME> -p .
+        KAGGLE_USERNAME: ${{ secrets.KAGGLE_alexsandercorrealima }}
+        KAGGLE_KEY: ${{ secrets.KAGGLE_24266317 }}
+      run: kaggle kernels pull <KAGGLE_USERNAME>/<Notebook Projeto Phyton Cientista de Dados - EBAC> -p .
 
     - name: Commit and push changes
       run: |
