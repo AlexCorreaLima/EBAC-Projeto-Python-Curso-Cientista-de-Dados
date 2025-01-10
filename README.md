@@ -1,4 +1,4 @@
-# projeto-python-curso-cientista-de-dados-ebac
+# EBAC-Projeto-Python-Curso-Cientista-de-Dados
 Notebook Projeto Phyton Cientista de Dados - EBAC
 
 
